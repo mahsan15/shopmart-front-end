@@ -1,4 +1,4 @@
-# Resort Website (React Version)
+# ShopMart Website (React Version)
 
 ## Rules to Run the project
 1. Create an empty folder and attach it to your workspace area in VS Code
